@@ -1,0 +1,2 @@
+# My-AndroidToDo-Assignment-
+1. The application will have 2 tabs  2. The first tab will contain a ToDo list where user can add, delete and edit a task a. The application data should be persistent b. OnClick of the item should open details of the task. User can select done not done within the details page c. OnClick of back within the details page should go back to the main screen with the done or not done status. 
